@@ -30,6 +30,6 @@ CLEANERelsync is a desktop Python source code formatter and optimizer built with
 ## Installation
 
 ```bash
-git clone [https://github.com/eloyssync/CLEANERelsync.git](https://github.com/eloyssync/CLEANERelsync.git)
+git clone https://github.com/eloyssync/CLEANERelsync.git
 cd CLEANERelsync
 pip install PyQt6
