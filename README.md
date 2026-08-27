@@ -19,7 +19,7 @@ CLEANERelsync is a desktop Python source code formatter and optimizer built with
 * **Multilingual Interface:** Supports English, Russian, and Estonian.
 
 Download CLEANERelsync v1.0.0:
-https://github.com/eloyssync/CLEANERelsync/releases/tag/v1.0.0
+https://github.com/eloyssync/CLEANERelsync/releases/tag/v1.0.1
 
 ---
 
