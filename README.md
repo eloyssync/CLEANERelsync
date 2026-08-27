@@ -18,7 +18,7 @@ CLEANERelsync is a desktop Python source code formatter and optimizer built with
 * **Backup Creation:** Generates `.bak` files prior to file modification.
 * **Multilingual Interface:** Supports English, Russian, and Estonian.
 
-Download CLEANERelsync v1.0.0:
+Download CLEANERelsync v1.0.1:
 https://github.com/eloyssync/CLEANERelsync/releases/tag/v1.0.1
 
 ---
