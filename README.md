@@ -36,3 +36,4 @@ https://github.com/eloyssync/CLEANERelsync/releases/tag/v1.0.1
 ```bash
 git clone [https://github.com/eloyssync/CLEANERelsync.git](https://github.com/eloyssync/CLEANERelsync.git)
 cd CLEANERelsync
+.
