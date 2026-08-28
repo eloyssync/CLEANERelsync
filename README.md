@@ -2,10 +2,6 @@
 
 CLEANERelsync is a high-performance desktop source code formatter and optimizer built with native C++ and Win32 API. It cleans code artifacts, normalizes non-standard typography, strips comments and docstrings, and validates syntax integrity before writing changes to disk.
 
-> **Note on Antivirus Detections:**
-> Standalone Windows executables built with native compilers may occasionally trigger false positive detections on some antivirus engines. 
-> The project is 100% open source. Check our [VirusTotal Report](https://www.virustotal.com/gui/file/e481c00001d40190faed8ba8a4a5374ad350ada2386ab63f395089db1174faa2).
-
 ---
 
 ## Features
@@ -18,8 +14,8 @@ CLEANERelsync is a high-performance desktop source code formatter and optimizer 
 * **Backup Creation:** Generates `.bak` files prior to file modification.
 * **Multilingual Interface:** Supports English, Russian, and Estonian.
 
-Download CLEANERelsync v1.0.1:
-https://github.com/eloyssync/CLEANERelsync/releases/tag/v1.0.1
+[Download CLEANERelsync v2.0.0](https://github.com/eloyssync/CLEANERelsync/releases/tag/v2.0.0)
+
 
 ---
 
