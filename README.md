@@ -5,6 +5,7 @@ CLEANERelsync is a high-performance desktop source code formatter and optimizer 
 ---
 
 ## Features
+<img width="538" height="653" alt="image" src="https://github.com/user-attachments/assets/3c0a1007-be45-4563-85a3-666effe72066" />
 
 * **Typography Normalization:** Converts non-ASCII em-dashes (`—`, `–`) and non-standard quotes (`«»`, `“”`) into standard characters inside string literals and comments.
 * **Comment Stripping:** Removes inline comments while preserving essential compiler directives, shebang lines, and encoding declarations.
